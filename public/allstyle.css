@@ -1,0 +1,263 @@
+.btn {
+    border-radius: 23px !important;
+  }
+  
+ 
+  
+  .btn-circle {
+    border-radius: 23px !important;
+  }
+  
+  
+  
+  footer {
+    background-color: #202051;
+  }
+  
+  footer a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  footer h5 {
+    color: white;
+  }
+  
+  footer li {
+    list-style: none;
+  }
+  
+  .fa {
+    font-size: 25px;
+  }
+  
+  .company-background {
+    background-color: #c8e6f2;
+  }
+  
+  .employee-card {
+    border-radius: 12px;
+    border: none;
+    height: 120px !important;
+    width: 130px !important;
+  }
+  
+  .employee-card2 {
+    border-radius: 12px;
+    border: none;
+    height: 80px !important;
+    width: 100px !important;
+  }
+  
+  .img-slider {
+    text-align: center !important;
+  }
+  
+  .img-slider:hover {
+    background-color: #2a2acc;
+    color: white;
+  }
+  
+  .img-slider img {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    text-align: center !important;
+  }
+  
+  .slick-slide img {
+    display: initial !important;
+  }
+  
+  .client-head-sec {
+    height: 60vh;
+    background-image: url(/assets/images/bg2.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 60vh;
+    /* 
+    .filter: blur(2px); */
+  }
+  .fa-star{
+    color: #f76b17;
+    font-size: 20px;
+  }
+  .client-review-img{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    text-align: center !important;
+  }
+  
+  @media (max-width: 768px) {
+  
+    /* #video-sec{
+      width:"300" !important;
+      height:"225" !important;
+    } */
+    .find-job {
+      height: 18rem;
+      background-color: #c8e6f2;
+  
+    }
+   .client-head-sec {
+  max-height: 40vh;
+    }
+  }
+  
+  .nav-item {
+    text-decoration: none !important;
+  }
+  
+  .link-head {
+    text-decoration: none;
+  
+    cursor: pointer;
+  }
+  
+  .logo-link {
+    text-decoration: none;
+    color: green;
+    font-size: 30px;
+    cursor: pointer;
+  }
+  
+  form {
+    /* background-color: #202051; */
+    /* background-color: #c8e6f2; */
+    /* margin: 50px;
+    padding: 50px;
+    border: 1px solid rgb(201, 198, 198);
+    border-radius: 14px; */
+  }
+  
+  .btn-link i {
+    font-size: 33px;
+  }
+  
+  .profile-background {
+    background-color: #dfdfdf;
+  }
+  
+  .line {
+    border: 1px solid gray;
+    width: 70%;
+    height: 1px;
+    margin-top: 14px;
+  }
+  
+  .line2 {
+    border: 1px solid gray;
+    width: 58%;
+    height: 1px;
+    margin-top: 14px;
+  }
+  
+  .line3 {
+    border: 1px solid gray;
+    width: 78%;
+    height: 1px;
+    margin-top: 14px;
+  }
+  
+  .line4 {
+    border: 1px solid gray;
+    width: 67%;
+    height: 1px;
+    margin-top: 14px;
+  }
+  
+  .fa-pencil-square-o {
+    padding-top: 5px;
+  }
+  /* backend Style start here */
+  .icon-dashboard{
+    font-size: 23px !important;
+    padding: 10px;
+    /* color: white; */
+  }
+  .btn-dashboard{
+    color: white;
+    background: transparent;
+    border: none;
+    padding: 0px !important;
+    border-radius: 15px;
+  }
+  .btn-dashboard:hover{
+    color: #202051;
+  }
+  .nav-dashboard-ul{
+padding: 5px!important;
+  
+  }
+ 
+  .sidebar{
+    padding: 0px !important;
+    /* background-color: #202051; */
+    background-color: #030fb0;
+
+  }
+  .btn-dashboard{
+    background-color: #d9d8db;
+    text-align: left!important;
+    color: #202051;
+    width: 100%;
+  }
+  .btn-dashboard:hover{
+    background-color: #136179;
+    text-align: left!important;
+    color: #d8d8f5;
+  }
+
+  /* .nav-dashboard-ul:hover{
+  color: #202051;
+  } */
+  .table-icons-edit{
+    font-size: 23px !important;
+    cursor: pointer;
+  }
+  .table-icons-check{
+    font-size: 23px !important;
+    color: green;
+    cursor: pointer;
+    padding-top: 3px;
+  }
+  .table-icons-eye{
+    font-size: 23px!important;
+    color: blue;
+    cursor: pointer;
+    padding-top: 3px;
+  }
+  .modal{
+    z-index: 11114;
+  }
+  .review-img-circle{
+    height: 80px;
+    width: 100px;
+    border-radius: 50%;
+  }
+  .all-star{
+    margin-top:-15px !important ;
+  }
+  .piechart{
+    height: 40vh!important;
+  }
+  .febric-img{
+    height: 80px;
+    width: 200px;
+  }
+  .table-sale-performence{
+    margin-top: 500px !important;
+  }
+  .dropdown-btn-login{
+    border-radius: 4px !important;
+    width: 100% !important;
+    text-align: left !important;
+ 
+  }
+  .sales-person-bg-color{
+    background-color: #136179;
+  }
+  .form-border{
+    border: 3px dotted goldenrod;
+  }
